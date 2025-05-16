@@ -24,6 +24,10 @@ Whether you're a **marketer, researcher, business owner, or content creator**, S
 
 It’s widely used by companies like **Google, Amazon, and Adidas** to stay ahead in the digital space.
 
+<a href="https://afftrend.com/similarweb"> 
+<img src="https://drive.google.com/uc?export=view&id=1l5pL-NmRd4ipfP11-OQX4lmD0iqkEa_z" alt="Learn More"> 
+</a>
+
 ## Similarweb Pricing Plans Overview
 
 The software offers a range of pricing options depending on the size of your business and the level of data access you need. Here's a breakdown of the four main plans currently available:
@@ -77,6 +81,10 @@ Here’s how they compare:
 - **No access to subdomains, keyword tools, or historical trends**.
 - Can’t export reports or use data in detail.
 
+<a href="https://afftrend.com/similarweb"> 
+<img src="https://drive.google.com/uc?export=view&id=1XyTmJpkLrN0yI3-nW1iocbDoCJPd9FDq" alt="Try for FREE"> 
+</a>
+
 ### **Paid Plans (Starter, Team, Business, Enterprise):**
 
 - Access to **thousands of keywords per table**.
@@ -88,6 +96,10 @@ Here’s how they compare:
 - **Multiple users** supported (up to 10 for Enterprise).
 
 The free plan is great for exploration, but the **real value of Similarweb lies in its paid features**—designed for businesses that rely on accurate, in-depth digital insights.
+
+<a href="https://afftrend.com/similarweb"> 
+<img src="https://drive.google.com/uc?export=view&id=1copskY16kdQsj1TlHODpmoNLyVieWffZ" alt="Take a Closer Look"> 
+</a>
 
 ## Is Similarweb Worth the Investment?
 
@@ -118,6 +130,10 @@ Yes, Similarweb can be worth the investment if you're looking to grow your onlin
     Whether you run a blog, eCommerce site, or marketing agency, it offers valuable insights for growth.
 
 It is a powerful tool for understanding web traffic, analyzing competitors, and making smarter marketing choices. While it may be costly for smaller teams, the insights it provides can lead to better strategies and growth. If data matters to you, it's a valuable investment worth considering.
+
+<a href="https://afftrend.com/similarweb"> 
+<img src="https://drive.google.com/uc?export=view&id=1X3j_4aWfdxpd4Dt_u1Juk-ZM5gyLrXpI" alt="Discover Possibilities"> 
+</a>
 
 ## **Tips Before You Buy**
 
