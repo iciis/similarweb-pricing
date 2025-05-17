@@ -10,6 +10,10 @@ By the end, you’ll have a clear idea of what you’re paying for and whether S
 
 ## What Is Similarweb?
 
+<a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=1wL_YrD_FzFO0dIamD4qkq8XP2km25fmy"  alt="Similarweb Homepage">
+</a>
+
 **Similarweb** is a popular **digital intelligence platform** that helps individuals and businesses understand how websites and apps perform. It collects and analyzes online data to provide **deep insights into traffic, user behavior, and competitors**.
 
 Here’s what the software can do:
@@ -29,6 +33,10 @@ It’s widely used by companies like **Google, Amazon, and Adidas** to stay ahea
 </a>
 
 ## Similarweb Pricing Plans Overview
+
+<a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=15EGAv8OW868fQ3jXCB3i44L1XxwaUaSn"  alt="Similarweb Pricing & Plans">
+</a>
 
 The software offers a range of pricing options depending on the size of your business and the level of data access you need. Here's a breakdown of the four main plans currently available:
 
