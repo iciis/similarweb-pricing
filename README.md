@@ -95,10 +95,6 @@ Here’s how they compare:
 
 **Paid Plans (Starter, Team, Business, Enterprise):**
 
-<a href="https://afftrend.com/similarweb">
-  <img src="https://drive.google.com/uc?export=view&id=15EGAv8OW868fQ3jXCB3i44L1XxwaUaSn"  alt="Similarweb Pricing">
-</a>
-
 - Access to **thousands of keywords per table**.
 - **Detailed traffic breakdowns** by country, source, and device.
 - **Longer historical data** (up to 37 months in Enterprise).
