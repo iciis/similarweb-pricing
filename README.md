@@ -119,17 +119,9 @@ Yes, Similarweb can be worth the investment if you're looking to grow your onlin
     
 - **Competitor Analysis**
 
-<a href="https://afftrend.com/similarweb ">
-  <img src="https://drive.google.com/uc?export=view&id=1wKdoc65hFxsLSx6qihJ2cjeWZdCb9BeE"  alt="Similarweb Competitor Analysis">
-</a>
-
     You can track your competitors' top-performing pages, keywords, and traffic sources to improve your own strategy.
     
 - **Keyword & SEO Insights**
-
-<a href="https://afftrend.com/similarweb">
-  <img src="https://drive.google.com/uc?export=view&id=1z4iJydmetYayfO3sIWq7UYwpFxZCyxqa"  alt="Similarweb Keyword Insights">
-</a>
 
     It helps find the keywords driving traffic to websites, letting you plan smarter SEO and PPC campaigns.
     
