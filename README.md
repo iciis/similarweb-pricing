@@ -95,6 +95,10 @@ Here’s how they compare:
 
 **Paid Plans (Starter, Team, Business, Enterprise):**
 
+<a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=15EGAv8OW868fQ3jXCB3i44L1XxwaUaSn"  alt="Similarweb Pricing">
+</a>
+
 - Access to **thousands of keywords per table**.
 - **Detailed traffic breakdowns** by country, source, and device.
 - **Longer historical data** (up to 37 months in Enterprise).
@@ -118,15 +122,23 @@ Yes, Similarweb can be worth the investment if you're looking to grow your onlin
     It shows you how much traffic a website gets, where it comes from, and how users behave — great for competitor research.
     
 - **Competitor Analysis**
-    
+
+<a href="https://afftrend.com/similarweb ">
+  <img src="https://drive.google.com/uc?export=view&id=1wKdoc65hFxsLSx6qihJ2cjeWZdCb9BeE"  alt="Similarweb Competitor Analysis">
+</a>
+
     You can track your competitors' top-performing pages, keywords, and traffic sources to improve your own strategy.
     
 - **Keyword & SEO Insights**
-    
+
+<a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=1z4iJydmetYayfO3sIWq7UYwpFxZCyxqa"  alt="Similarweb Keyword Insights">
+</a>
+
     It helps find the keywords driving traffic to websites, letting you plan smarter SEO and PPC campaigns.
     
 - **Market & Industry Trends**
-    
+
     Get a clear view of your industry’s digital trends — helpful for spotting new opportunities or threats early.
     
 - **User-Friendly Dashboard**
@@ -160,35 +172,35 @@ Evaluate your goals, explore the free version, and compare with alternatives bef
 
 ## FAQs
 
-**1. What is Similarweb?**
+**What is Similarweb?**
 
 Similarweb is a competitive intelligence tool that provides website traffic insights, audience behavior analysis, and digital marketing data. It helps businesses understand their competitors, monitor market trends, and optimize their digital strategies for better performance.
 
-**2. What pricing plans does Similarweb offer?**
+**What pricing plans does Similarweb offer?**
 
 Similarweb offers several pricing plans, including a free plan and premium options. Premium plans are tailored to different business needs, with varying levels of data access and features. Pricing depends on the plan and business size.
 
-**3. What features are included in Similarweb’s free plan?**
+**What features are included in Similarweb’s free plan?**
 
 The platform’s free plan gives limited access to website traffic data, including basic traffic overviews, top referral sources, and audience demographics. It is ideal for small-scale analysis but lacks advanced data and features available in premium plans.
 
-**4. What’s the difference between Similarweb's premium plans?**
+**What’s the difference between Similarweb's premium plans?**
 
 Premium plans vary by data depth and features. Higher-tier plans offer more detailed insights, including competitor analysis, industry trends, keyword data, and enhanced reports. They cater to businesses requiring extensive digital marketing or competitive research.
 
-**5. Is Similarweb pricing affordable for small businesses?**
+**Is Similarweb pricing affordable for small businesses?**
 
 For small businesses, this tool’s free plan is a great starting point. However, the premium plans may be a bit costly for smaller budgets. Businesses must weigh the benefits of the insights against the pricing for their specific needs.
 
-**6. How can Similarweb help with SEO?**
+**How can Similarweb help with SEO?**
 
 Similarweb offers SEO insights by analyzing organic search traffic, keyword rankings, and referring domains. It helps identify high-performing keywords, track competitors, and optimize your website’s content strategy for better search engine visibility.
 
-**7. Can I cancel my Similarweb subscription anytime?**
+**Can I cancel my Similarweb subscription anytime?**
 
 Yes, Similarweb allows users to cancel their subscription at any time. If you’re on a premium plan, cancellation typically occurs at the end of your billing cycle. Always check the terms of service for specific cancellation details.
 
-**8. Is the data provided by Similarweb accurate?**
+**Is the data provided by Similarweb accurate?**
 
 Similarweb uses various sources to gather data, including public web traffic information, and applies algorithms for accuracy. While the data is generally reliable, there may be slight discrepancies in some cases, especially for smaller or newer websites.
 
